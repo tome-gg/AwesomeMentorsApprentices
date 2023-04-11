@@ -1,6 +1,8 @@
 # Awesome Mentors and Apprentices
 
-A curated list of mentors and apprentices from media, history, anime, movies, and pop culture. This repository aims to showcase inspiring examples of mentorship and learning relationships across various domains.
+A curated list of mentors and apprentices from media, history, anime, movies, and pop culture. 
+
+This repository aims to showcase inspiring examples of mentorship and learning relationships across various domains.
 
 ## Table of Contents
 
@@ -27,11 +29,13 @@ A list of mentor and apprentice relationships from history, with a brief descrip
 
 ## Movies
 
-A list of mentor and apprentice relationships from movies, with a brief description of each pair and the film they appeared in.
+* Star Wars - [Luke Skywalker](./characters/luke-skywalker.md)
+* Star Wars - [Obi Wan Kenobi](./characters/obi-wan-kenobi.md)
+* Star Wars -  [Qui-gon Jinn](./characters/qui-gon-jinn.md)
 
 ## Anime
 
-A list of mentor and apprentice relationships from anime, with a brief description of each pair and the anime series they appeared in.
+* Black Clover - [Yami Sukehiro](./characters/yami-sukehiro.md)
 
 ## TV Shows
 
@@ -43,7 +47,7 @@ A list of mentor and apprentice relationships from literature, with a brief desc
 
 ## Video Games
 
-A list of mentor and apprentice relationships from video games, with a brief description of each pair and the game they appeared in.
+* DotA 2 - [BSJ](./characters/bsj-dota-2.md)
 
 ## Pop Culture
 
@@ -51,7 +55,7 @@ A list of mentor and apprentice relationships from pop culture, with a brief des
 
 ## Contribute
 
-Thank you for your interest! See our [Contributing Guidelines](./CONTRIBUTING).
+See our [Contributing Guidelines](./CONTRIBUTING). Thank you for your interest! 
 
 ## License
 
