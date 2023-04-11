@@ -1,0 +1,50 @@
+# Contributing to Awesome Mentors & Apprentices
+
+Thank you for your interest in contributing to the Awesome Mentors & Apprentices repository! This file contains guidelines and instructions to help you contribute effectively. Please read and follow these guidelines to ensure a smooth contribution process.
+
+## Code of Conduct
+
+Please respect intellectual property rights and follow the fair use policy for copyrighted materials. Be mindful of the sources and attributions for images and content you submit.
+
+## Contribution Process
+
+To contribute to this repository:
+
+1. Fork the repository.
+2. Create a branch for your changes.
+3. Make your changes and additions following the guidelines below.
+4. Submit a pull request. In the pull request description, include:
+   a. Why you think the mentor, apprentice, or mentor-apprentice pair should be included in the list.
+   b. The content describing the mentor/apprentice with hyperlinks to their public Wikipedia/Wikimedia data or supporting references.
+
+## Formatting and Style Guide
+
+### Content
+
+- Submissions can include mentors, apprentices, or mentor-apprentice pairs.
+- Each submission should contain:
+  - The name of the person or fictional character.
+  - A description focusing on the characteristics, temperament, teaching, or learning style of the individual or character.
+  - An external reference or source.
+  - An image with proper copyright attribution.
+
+
+Note: The primary objective of the awesome list of mentors and apprentices is to catalog the different kinds of apprentices and mentors you can encounter, describing their characteristics.
+
+### (Optional) Subject Content
+
+- You may optionally include content that focuses on what was learned by the apprentice or taught by the mentor (termed as "Subject content"). This can be included in the `content/` directory as a separate document.
+
+### Real Life and Fictional Characters
+
+- Both real-life and fictional characters are welcome.
+
+## Reporting Issues
+
+If you find any issues with the submissions, such as broken links, false or inaccurate data, please file a GitHub issue.
+
+## Communication
+
+For communication regarding the repository, use GitHub issues. If you want to connect for possible collaborations with Tome.gg, please [join the Discord community](https://bit.ly/3yCdUiE).
+
+Thank you for your interest in contributing to Awesome Mentorship! We look forward to your valuable additions.
